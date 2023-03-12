@@ -5,12 +5,9 @@ Me chamo Thauan, sou estudante de tecnologia a mais de 5 anos. Atualmete curso E
 
 ##
 
-<a align="center" href="https://instagram.com/thauannf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
+   <a align="center" href="https://instagram.com/thauannf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:thauanfonseca20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="1485287.png">
-  
+    <a href="https://www.linkedin.com/in/thauanfonseca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" target="_blank"></a>
 
 <!--
 **Thauan-Fonseca/Thauan-Fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
