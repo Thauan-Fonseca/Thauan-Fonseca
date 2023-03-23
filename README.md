@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-Me chamo Thauan, sou estudante de tecnologia a mais de 5 anos. Atualmete curso Engenharia Elétrica pela  UFERSA e venho estudando com afinco  programção nos últimos meses, mais especificamente a área de desenvolvimento web. Estou participando atualmente do programa Desenvolve 2023, do grupo boticário como estudante de FullStack.
-
+Me chamo Thauan, sou bacharel em Ciência e Tecnologia (UFERSA). Atualamente curso  Engenharia Elétrica  e venho estudando com afinco programação nos últimos meses,  mais especificamente a área de desenvolvimento web. Estou participando atualmente do programa Desenvolve 2023, do Grupo Boticário como estudante de FullStack.
 ##
 
    <a align="center" href="https://instagram.com/thauannf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
