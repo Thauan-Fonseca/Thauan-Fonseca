@@ -4,9 +4,14 @@
 Me chamo Thauan, sou bacharel em Ciência e Tecnologia (UFERSA). Atualamente curso  Engenharia Elétrica  e venho estudando com afinco programação nos últimos meses,  mais especificamente a área de desenvolvimento web. Estou participando do programa Desenvolve 2023, do Grupo Boticário como estudante de FullStack e pretendo expandir ainda mais meus horizontes neste vasto ecossistema de tecnologia.
 ##
 
-   <a align="center" href="https://instagram.com/thauannf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:thauanfonseca20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-    <a href="https://www.linkedin.com/in/thauanfonseca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" target="_blank"></a>
+   ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![mongod](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+   ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+   
 
 <!--
 **Thauan-Fonseca/Thauan-Fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
